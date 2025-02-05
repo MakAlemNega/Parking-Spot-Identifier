@@ -1,4 +1,4 @@
-# Parking-Spot-Identifier
+i# Parking-Spot-Identifier
 # Parking Lot Occupancy Detection
 
 ## Overview
@@ -88,10 +88,6 @@ This script:
 
 ## Contributors
 - **Makbel A.** – Developer
-
-## License
-This project is open-source and available under the MIT License.
-
 ---
 
 Now you're ready to run the project! 🚀 Let me know if you have any questions.
