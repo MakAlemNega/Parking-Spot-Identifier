@@ -88,6 +88,7 @@ This script:
 
 ## Contributors
 - **Makbel A.** – Developer
+- **Samson S.** - Developer 
 ---
 
 Now you're ready to run the project! 🚀 Let me know if you have any questions.
