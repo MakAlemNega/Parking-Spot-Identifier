@@ -1,4 +1,3 @@
-i# Parking-Spot-Identifier
 # Parking Lot Occupancy Detection
 
 ## Overview
